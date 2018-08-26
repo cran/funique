@@ -1,0 +1,11 @@
+0b802ad84eba662a1eeb6cd0ce3c02dd *DESCRIPTION
+f54c8df68581d837eac7e23b9302068b *LICENSE
+6f89275d51af92bcadcea375d6e24749 *NAMESPACE
+976aacdc359501d85956d4176c85bcff *R/funique.R
+ebae762668752431fc7da39143798d65 *README.md
+975532bb7562482bc3f1184acba09059 *man/figures/logo.png
+e85efe46f50432044757d4b8d0e9ece9 *man/figures/r1.png
+cad9d0193961026895e77707a60df8e6 *man/figures/r2.png
+9577f824dbf142d84344ec257f2f525d *man/funique.Rd
+9d51f142956873739325f00e25f68cb1 *tests/testthat.R
+7ecd83cf53f0db4505400f0aff34e77f *tests/testthat/test-funique.R
